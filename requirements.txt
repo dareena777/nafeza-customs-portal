@@ -1,0 +1,34 @@
+# Web Frameworks, APIs & Adapters
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+flask>=3.0.0
+a2wsgi>=1.10.0
+streamlit>=1.32.0
+python-multipart>=0.0.9
+pydantic>=2.6.0
+requests>=2.31.0
+httpx>=0.27.0
+
+# Gemini Vision & GenAI SDK
+google-genai>=0.1.0
+
+# Computer Vision & Document Intelligence
+easyocr>=1.7.1
+opencv-python-headless>=4.9.0.80
+PyMuPDF>=1.23.0
+Pillow>=10.2.0
+openpyxl>=3.1.2
+
+# NLP & Machine Learning Core
+torch>=2.2.0
+numpy>=1.26.0
+symspellpy>=6.7.7
+
+# Geocoding & Routing Optimization
+geopy>=2.4.1
+networkx>=3.2.1
+scipy>=1.12.0
+
+# MLOps & Data Monitoring
+mlflow>=2.11.0
+evidently>=0.4.15
